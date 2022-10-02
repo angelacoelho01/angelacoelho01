@@ -1,5 +1,5 @@
-![Ângela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacoelho01&count_private=true&show_icons=true&line_height=26&theme=nightowl)
-![Ângela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacoelho01&count_private=true&langs_count=3&show_icons=true&theme=nightowl)
+![Ângela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacoelho01&count_private=true&show_icons=true&line_height=30&theme=nightowl)
+![Ângela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacoelho01&count_private=true&langs_count=4&line_height=30&show_icons=true&theme=nightowl)
 
 <!--
 **angelacoelho01/angelacoelho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
