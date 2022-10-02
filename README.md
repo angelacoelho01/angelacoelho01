@@ -1,3 +1,4 @@
+## Hi there! ![Hi there](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 ![Ângela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacoelho01&count_private=true&show_icons=true&line_height=27&theme=nightowl)
 ![Ângela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacoelho01&count_private=true&langs_count=3&show_icons=true&theme=nightowl)
 
