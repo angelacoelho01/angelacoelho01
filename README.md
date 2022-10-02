@@ -1,4 +1,4 @@
-### Hi there 👋
+![Ângela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacoelho01&count_private=true&show_icons=true&theme=cobalt)
 
 <!--
 **angelacoelho01/angelacoelho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
